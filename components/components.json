@@ -1,0 +1,9 @@
+{
+    "lora": {
+      "files": [
+        "lora.h"
+      ],
+      "dependencies": []
+    }
+  }
+  
